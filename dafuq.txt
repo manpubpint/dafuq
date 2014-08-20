@@ -15,7 +15,9 @@ Some definitions, so we know the who / where / when:
 
 * SOCIAL: a piss-up in a pub.
 * PUB: building in which alcohol and food are available.
-* ORGANISER: the "eager volunteer" who's arranging the social, taking the flack if it all goes wrong. Probably you, if you're reading this.
+* ORGANISER: the "eager volunteer" who's arranging the social,
+  taking the flack if it all goes wrong. Probably you, if you're
+  reading this.
 * EVENT: the conference itself
 * EVENT SCHEDULE:  The date, start and end times of the EVENT.
 * VENUE: building in which the EVENT takes place
