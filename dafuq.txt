@@ -43,13 +43,17 @@ WRONG EXAMPLES of pub selection include:
 SHOULD: scope out suitable PUBS in the local area of day event. Have a pint at various
 times, if possible on the day of week of the EVENT.
 
-SHOULD: keep it simple. Avoid multiple pubs for socials across the day, or repeat visits for lunch vs evening; it's more likely to confuse staff ("What do you want when?") and drinkers ("Which pub is it? I forgot")
+SHOULD: keep it simple. Avoid multiple pubs for socials across the day, or repeat
+visits for lunch vs evening; it's more likely to confuse staff ("What do you
+want when?") and drinkers ("Which pub is it? I forgot")
 
         * One crowd. One evening. One pub.
 
-MUST: be present on the day of EVENT, or be able to hand over to a secondary party who can pick up the pieces when/if the organiser has a nervous breakdown.
+MUST: be present on the day of EVENT, or be able to hand over to a secondary party 
+who can pick up the pieces when/if the organiser has a nervous breakdown.
 
-MUST: establish from the PAYMENT MANAGER: budget for pub social (room hire if any, wet/dry cost breakdown as required)
+MUST: establish from the PAYMENT MANAGER: budget for pub social (room hire if any,
+wet/dry cost breakdown as required)
 
 -------
 
@@ -57,13 +61,17 @@ Phase 2: Paperwork.
 
 The ORGANISER:
 
-MUST: prepare a spec document. Spec should fit on a single piece of paper, and MUST contain:
+MUST: prepare a spec document. Spec should fit on a single piece of paper, and
+MUST contain:
 
-        * TITLE OF EVENT. So if people walk in saying "Hi, we're here for blah blah conference/talk/social", the pub staff know what to expect.
+        * TITLE OF EVENT. So if people walk in saying "Hi, we're here for blah blah
+        conference/talk/social", the pub staff know what to expect.
 
         * DATE OF EVENT, and required start and end times of SOCIAL.
 
-        If possible:  have the start of the SOCIAL exactly dovetailing into the end of main EVENT SCHEDULE. You often get people showing up for the social early, these are usually the slackers who just want to show up for a free piss-up.
+        If possible:  have the start of the SOCIAL exactly dovetailing into the end
+        of main EVENT SCHEDULE. You often get people showing up for the social early,
+        these are usually the slackers who just want to show up for a free piss-up.
 
         * Expected size of CROWD for the SOCIAL (give or take 20% if you already have rough numbers for the EVENT). Partly for venue licensing and fire regulations, but also for alcohol stock control so the bar doesn't run out on the day.
 
