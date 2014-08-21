@@ -73,27 +73,41 @@ MUST contain:
         of main EVENT SCHEDULE. You often get people showing up for the social early,
         these are usually the slackers who just want to show up for a free piss-up.
 
-        * Expected size of CROWD for the SOCIAL (give or take 20% if you already have rough numbers for the EVENT). Partly for venue licensing and fire regulations, but also for alcohol stock control so the bar doesn't run out on the day.
+        * Expected size of CROWD for the SOCIAL (give or take 20% if you already
+        have rough numbers for the EVENT). Partly for venue licensing and fire
+        regulations, but also for alcohol stock control so the bar doesn't run
+        out on the day.
 
 If food is required on the day and is an exception to the pub's normal offering on the day, the spec
 
-MUST:  contain a guideline with examples of acceptable foods, so there's a variety of veggie/meat stuff and hot/cold.
+MUST:  contain a guideline with examples of acceptable foods, so there's a variety
+of veggie/meat stuff and hot/cold.
 
 Food or not, the spec
 
-        * MUST: contain the contact details of the ORGANISER - preferably 2 diverse forms of contact. A mobile phone number and some form of internet-based method (email / facebook) are good.
+        * MUST: contain the contact details of the ORGANISER - preferably 2 diverse
+        forms of contact. A mobile phone number and some form of internet-based method
+        (email / facebook) are good.
 
 If the SOCIAL is offering  sponsored (free) drinks and/or food, the spec
 
-        * MUST: give contact details of whom to request monies for a deposit and final payment. The PUB will need a name, physical address, multiple contact methods (phones and email)
+        * MUST: give contact details of whom to request monies for a deposit and final
+        payment. The PUB will need a name, physical address, multiple contact methods
+        (phones and email)
 
-        * MUST: give a budget for both wet (drinks) and dry (food) requirements. This gives the PUB a ballpark budget per head for guests.
+        * MUST: give a budget for both wet (drinks) and dry (food) requirements. This
+        gives the PUB a ballpark budget per head for guests.
 
-Expect to have to lay down a deposit in advance. Paying a deposit also reinforces the ORGANISER's position.
+Expect to have to lay down a deposit in advance. Paying a deposit also reinforces
+the ORGANISER's position.
 
 Finally, the spec
 
-        * SHOULD: give a little background of the event if possible, so pub staff know a bit more about the SOCIAL's likely CROWD beforehand. (Is it a major milestone year for the event, are the guests mainly male vs female, viz: restocking of toilets,  will there need to be any specific disabled access requirements, etc)
+        * SHOULD: give a little background of the event if possible, so pub staff
+        know a bit more about the SOCIAL's likely CROWD beforehand. (Is it a major
+        milestone year for the event, are the guests mainly male vs female, viz:
+        restocking of toilets,  will there need to be any specific disabled
+        access requirements, etc)
 
 -------------
 
