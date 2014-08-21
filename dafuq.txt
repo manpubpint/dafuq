@@ -225,15 +225,22 @@ Phase 5: On the day. Actual drinking.
 
 The ORGANISER:
 
-MUST: be generally visible on the day of EVENT, or have handed over to someone to act in organiser capacity, and updated PAYMENT MANAGER and KEY PUB PERSON of all new details.
+MUST: be generally visible on the day of EVENT, or have handed over to someone
+to act in organiser capacity, and updated PAYMENT MANAGER and KEY PUB PERSON
+of all new details.
 
-SHOULD: be around the front desk at registration, to see and be seen by the AUDIENCE, a percentage of whom will make up the CROWD later on.
+SHOULD: be around the front desk at registration, to see and be seen by the
+AUDIENCE, a percentage of whom will make up the CROWD later on.
 
 MUST: know what the CROWD is going to look like..
 
-MUST: check in with the PUB at the lunch break in case the staff are running late with anything. This gives you the afternoon to get hold of the KEY PUB PERSON and do any last-minute fixes.
+MUST: check in with the PUB at the lunch break in case the staff are running
+late with anything. This gives you the afternoon to get hold of the KEY PUB
+PERSON and do any last-minute fixes.
 
-MUST: ensure the speaker wrapping up the EVENT knows to announce the SOCIAL in the closing speech - this is  especially important in the case of a last-minute PUB change.
+MUST: ensure the speaker wrapping up the EVENT knows to announce the SOCIAL
+in the closing speech - this is  especially important in the case of a
+last-minute PUB change.
 
 Most critically, the ORGANISER:
 
@@ -241,25 +248,44 @@ MUST: be at the PUB before the SCHEDULE has finished.
 
 Once there, they:
 
-SHOULD: prepare the PUB with any required signage - as a minimum, have the EVENT's logo on the door, and an arrow to the function room if booked.
+SHOULD: prepare the PUB with any required signage - as a minimum, have the
+EVENT's logo on the door, and an arrow to the function room if booked.
 
 If a bartab is being run behind the bar for sponsored drinks, the ORGANISER:
 
-MUST: establish a payment method to get the bartab open - usually a company card with suitable available limit as guarantee.
+MUST: establish a payment method to get the bartab open - usually a company
+card with suitable available limit as guarantee.
 
-MUST: establish any tab rules (password, or items to be shown, to get free drinks, or any limits on drink types)
+MUST: establish any tab rules (password, or items to be shown, to get free
+drinks, or any limits on drink types)
 
-SHOULD: be near the bar keeping an eye on the tab, in case a bunch of random freeloaders try to blag rounds of drinks. See "ORGANISER should be visible at the EVENT and know the CROWD"
+SHOULD: be near the bar keeping an eye on the tab, in case a bunch of random
+freeloaders try to blag rounds of drinks. See "ORGANISER should be visible
+at the EVENT and know the CROWD"
 
-MUST: liaise with a contact still at EVENT in case the VENUE throws everyone out early. It happens. Having a point still at VENUE gives the PUB staff advanced warning of a rush at the bar, especially if food is still being laid out. A quick text of "we're on the move" from your contact will suffice.
+MUST: liaise with a contact still at EVENT in case the VENUE throws everyone
+out early. It happens. Having a point still at VENUE gives the PUB staff
+advanced warning of a rush at the bar, especially if food is still being
+laid out. A quick text of "we're on the move" from your contact will suffice.
 
-MUST: establish final payment contacts - introduce the PAYMENT MANAGER to KEY PUB PERSON, so they can sort out the final bill between them. This allows the ORGANISER's card behind the bar to be swapped for the PAYMENT MANAGER's one.
+MUST: establish final payment contacts - introduce the PAYMENT MANAGER to the 
+KEY PUB PERSON, so they can sort out the final bill between them. This allows
+the ORGANISER's card behind the bar to be swapped for the PAYMENT MANAGER's
+one. Don't be stuck with the bill at the end of the night.
 
-If a bartab is being run, keep an eye on the running total every half an hour or so, agreeing to raise it if needed, or closing it when the agreed wet budget has been hit, and doing a quick shout-out to the CROWD accordingly.
+If a bartab is being run, keep an eye on the running total every half an hour
+or so, agreeing to raise it if needed, or closing it when the agreed wet
+budget has been hit, and doing a quick shout-out to the CROWD accordingly.
 
-SHOULD: be able to give basic local information for transport and cashpoints. Maybe have last train/tube/bus details and a local map, or a reliable cab number. To be honest, if you're old enough to drink, you should be able to get yourself home, but if people are travelling from afar, they appreciate this.
+SHOULD: be able to give basic local information for transport and cashpoints.
+Maybe have last train/tube/bus details and a local map, or a reliable cab
+number. To be honest, if you're old enough to drink, you should be able to get
+yourself home, but if people are travelling from afar, they appreciate this.
 
-SHOULD: have a pint and relax once the CROWD is in the PUB and the first round has been downed.  90% of the work has been done, now just let the people do their thing. Be social, but don't get too pissed, you're still working (or at least, functional).
+SHOULD: have a pint and relax once the CROWD is in the PUB and the first
+round has been downed.  90% of the work has been done, now just let the people
+do their thing. Be social, but don't get too pissed, you're still working
+(or at least, supposed to be functional).
 
 ------------
 
@@ -267,7 +293,9 @@ Phase 6: Aftermath / Hangover / Hair Of The Dog.
 
 FINALLY:
 
-If the PAYMENT MANAGER doesn't get a final invoice on the night, expect to do one final visit in the following days to procure one. (You may have to chase KEY PUB PERSON for this, but it's important for everyone's sanity and accountants).
+If the PAYMENT MANAGER doesn't get a final invoice on the night, expect to do
+one final visit in the following days to procure one. (You may have to chase
+KEY PUB PERSON for this, but it's important for everyone's sanity and accountants).
 
 As part of this, the ORGANISER:
 
