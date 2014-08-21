@@ -198,17 +198,26 @@ pubs.
 
 The ORGANISER:
 
-MUST: chase the PAYMENT MANAGER to get any required deposit to the KEY PUB PERSON, and check said person receives such payments, and establish how any balance should be paid on the day of the SOCIAL.
+MUST: chase the PAYMENT MANAGER to get any required deposit to the KEY PUB
+PERSON, and check said person receives such payments, and establish how any
+balance should be paid on the day of the SOCIAL.
 
-MUST: relay any critical changes of PUB availability back to the PAYMENT MANAGER. If the pub becomes unavailable on the required day, a new pub must be found quickly, as pubs get booked up in advance.
+MUST: relay any critical changes of PUB availability back to the PAYMENT
+MANAGER. If the pub becomes unavailable on the required day, a new pub must
+be found quickly, as pubs get booked up in advance.
 
-MUST: liaise with PAYMENT MANAGER, and advise the KEY PUB PERSON of any changes in CROWD numbers / budget as soon as possible.
+MUST: liaise with PAYMENT MANAGER, and advise the KEY PUB PERSON of any changes
+in CROWD numbers / budget as soon as possible.
 
-SHOULD: liaise with KEY PUB PERSON re any EVENT promotional items (a poster on wall on the night, anything to be put on tables, any wifi access for guests, etc). Ask, don't assume. Especially before sticking things to walls.
+SHOULD: liaise with KEY PUB PERSON re any EVENT promotional items (a poster
+on the wall on the night, anything to be put on tables, any wifi access for
+guests, etc). Ask, don't assume. Especially before sticking things to walls.
 
 Finally, the PAYMENT MANAGER
 
-SHOULD: organise collection of monies from sponsors, the SOCIAL ORGANISER will be busy enough on the day running around between VENUE and PUB and sticking things to walls.
+SHOULD: organise collection of monies from sponsors, the SOCIAL ORGANISER
+will be busy enough on the day running around between VENUE and PUB and sticking
+things to walls.
 
 --------------
 
