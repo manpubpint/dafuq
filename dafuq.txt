@@ -24,7 +24,8 @@ Some definitions, so we know the who / where / when:
 * AUDIENCE: people who attend the EVENT and are likely to attend the SOCIAL.
 * CROWD: the thirsty remains of the AUDIENCE who actually show up at the SOCIAL.
 * PAYMENT MANAGER: person who pays for things. Usually someone in charge of the EVENT.
-* KEY PUB PERSON - the person at the PUB who can agree dates and times, prices, and pub offerings.  This may change between the time of initial pub booking and the day of the EVENT.
+* KEY PUB PERSON - the person at the PUB who can agree dates and times, prices, and
+pub offerings.  This may change between the time of initial pub booking and the day of the EVENT.
 
 -------------
 
@@ -32,12 +33,15 @@ Phase 1: Pre event recon. The pre-drinking drinking.
 
 The ORGANISER:
 
-MUST: know the AUDIENCE demographic. The wrong type of PUB will just annoy everyone.  WRONG EXAMPLES of pub selection include:
+MUST: know the AUDIENCE demographic. The wrong type of PUB will just annoy everyone.
+
+WRONG EXAMPLES of pub selection include:
 
         * karaoke bar for quiet types.
         * wine bar vs the real-ale crowd.
 
-SHOULD: scope out suitable PUBS in the local area of day event. Have a pint at various times, if possible on the day of week of the EVENT.
+SHOULD: scope out suitable PUBS in the local area of day event. Have a pint at various
+times, if possible on the day of week of the EVENT.
 
 SHOULD: keep it simple. Avoid multiple pubs for socials across the day, or repeat visits for lunch vs evening; it's more likely to confuse staff ("What do you want when?") and drinkers ("Which pub is it? I forgot")
 
