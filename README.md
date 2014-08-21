@@ -19,6 +19,7 @@ Contents:
 
 dafuq.txt - the howto itself. git clone, or cut and paste, and print or mail to yourself. Whichever works for you.
 
+spec.txt - an example specification of your social's requirements, as described in DAFUQ. Hack it to bits according to your needs, and print multiple copies.
 
 -------
 
